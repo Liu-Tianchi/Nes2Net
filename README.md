@@ -1,6 +1,7 @@
 # 🔥🔥🔥Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing
 Official release of pretrained models and scripts for "Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing"
-Accpeted: IEEE Transactions on Information Forensics and Security (T-IFS)
+
+Accpeted to: **IEEE Transactions on Information Forensics and Security** (T-IFS)
 
 IEEE Link: https://ieeexplore.ieee.org/document/11222612
 arXiv Link: https://arxiv.org/abs/2504.05657
