@@ -166,10 +166,15 @@ Thanks for following open-source projects:
 
 # Cite
 ```  
-@article{liu2025nes2net,
-  title={Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing},
-  author={Liu, Tianchi and Truong, Duc-Tuan and Das, Rohan Kumar and Lee, Kong Aik and Li, Haizhou},
-  journal={arXiv preprint arXiv:2504.05657},
-  year={2025}
-}
+@ARTICLE{11222612,
+  author={Liu, Tianchi and Truong, Duc-Tuan and Kumar Das, Rohan and Aik Lee, Kong and Li, Haizhou},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-Spoofing}, 
+  year={2025},
+  volume={20},
+  number={},
+  pages={12005-12018},
+  keywords={Foundation models;Feature extraction;Computational modeling;Computer architecture;Computational efficiency;Dimensionality reduction;Acoustics;Kernel;Robustness;Deepfakes;Deepfake detection;speech anti-spoofing;Res2Net;Nes2Net;SSL;speech foundation model},
+  doi={10.1109/TIFS.2025.3626963}}
+
 ```
