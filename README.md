@@ -1,6 +1,8 @@
 # 🔥🔥🔥Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing
 Official release of pretrained models and scripts for "Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing"
+Accpeted: IEEE Transactions on Information Forensics and Security (T-IFS)
 
+IEEE Link: https://ieeexplore.ieee.org/document/11222612
 arXiv Link: https://arxiv.org/abs/2504.05657
 
 📢 **[IMPORTANT] This repo is for the Controlled Singing Voice Deepfake Detection (CtrSVDD) dataset. For speech cases, please refer to following two repos:**
@@ -166,7 +168,7 @@ Thanks for following open-source projects:
 
 # Cite
 ```  
-@ARTICLE{11222612,
+@ARTICLE{Nes2Net,
   author={Liu, Tianchi and Truong, Duc-Tuan and Kumar Das, Rohan and Aik Lee, Kong and Li, Haizhou},
   journal={IEEE Transactions on Information Forensics and Security}, 
   title={Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-Spoofing}, 
