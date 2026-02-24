@@ -13,7 +13,9 @@ For the **ASVspoof 5** dataset: 👉 [asvspoof5](https://github.com/Liu-Tianchi/
 
 
 # Update:
-🔥[April 20, 2025] ASVspoof 5 pretrained model and codes are now avaiable!!! 👉 [asvspoof5](https://github.com/Liu-Tianchi/Nes2Net_ASVspoof_ITW/tree/asvspoof5)
+🔥[March, 2026] Nes2Net models are now avaiable on 🤗Hugging Face!!! 👉 [🤗HuggingFace](https://huggingface.co/nielsr/nes2net-checkpoints). Thanks to @[nielsr](https://huggingface.co/nielsr)
+
+🔥[April, 2025] ASVspoof 5 pretrained model and codes are now avaiable!!! 👉 [asvspoof5](https://github.com/Liu-Tianchi/Nes2Net_ASVspoof_ITW/tree/asvspoof5)
 
 # Pretrained Models
 | Model                | Pre-trained Checkpoints | Score File       | Seed | Best Valid Epoch | w/o ACE. B.F. | w/ ACE. B.F. |
