@@ -169,6 +169,13 @@ Thanks for following open-source projects:
 3. AttM aggregation: https://github.com/pandarialTJU/AttM_INTERSPEECH24 Paper: [[AttM]](https://arxiv.org/abs/2406.10283v1)
 4. WavLM pretrained model is from S3PRL: https://github.com/s3prl/s3prl
 
+# License and Usage
+This project is released under the Apache License 2.0. The authors welcome and encourage academic use of this project and its released models, and are friendly to commercial use, modification, and redistribution, subject to the terms of the Apache License 2.0. If you use our models or code in your research or applications, we kindly ask that you acknowledge this work and cite the associated paper.
+
+This project may rely on or incorporate publicly available models, datasets, and third-party open-source software. Users are solely responsible for reviewing and complying with the licenses and terms applicable to these third-party components. The release of this project does not grant any additional rights to third-party models, datasets, or software, and the authors are not responsible for users' compliance with such third-party terms.
+
+The project, code, and models are provided "AS IS", without warranties of any kind. To the extent permitted by applicable law, the authors shall not be liable for any claims, damages, or other liabilities arising from the use, modification, or redistribution of the project or models.
+
 # Cite
 ```  
 @ARTICLE{Nes2Net,
